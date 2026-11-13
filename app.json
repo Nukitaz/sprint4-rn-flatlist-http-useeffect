@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Rick and Morty Explorer",
+    "slug": "sprint4-rn-flatlist-http-useeffect",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
