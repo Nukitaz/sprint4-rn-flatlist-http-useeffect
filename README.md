@@ -66,3 +66,4 @@ Si todo salió bien verás el título **Rick and Morty** y un texto de relleno. 
 ## API utilizada
 
 [Rick and Morty API](https://rickandmortyapi.com/documentation): pública, gratuita y sin autenticación. Antes de empezar, abre en tu navegador `https://rickandmortyapi.com/api/character` para confirmar que responde.
+
